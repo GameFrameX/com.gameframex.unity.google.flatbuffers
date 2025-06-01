@@ -1,10 +1,14 @@
 # Changelog
 
-## [23.5.28](https://github.com/GameFrameX/com.gameframex.unity.google.flatbuffers/tree/23.5.28) (2025-05-31)
+## [23.5.29](https://github.com/GameFrameX/com.gameframex.unity.google.flatbuffers/tree/23.5.29) (2025-06-01)
+
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.google.flatbuffers/compare/23.5.28...23.5.29)
+
+## [23.5.28](https://github.com/GameFrameX/com.gameframex.unity.google.flatbuffers/tree/23.5.28) (2025-06-01)
 
 [Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.google.flatbuffers/compare/23.5.27...23.5.28)
 
-## [23.5.27](https://github.com/GameFrameX/com.gameframex.unity.google.flatbuffers/tree/23.5.27) (2025-05-30)
+## [23.5.27](https://github.com/GameFrameX/com.gameframex.unity.google.flatbuffers/tree/23.5.27) (2025-06-01)
 
 [Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.google.flatbuffers/compare/23.5.26...23.5.27)
 
