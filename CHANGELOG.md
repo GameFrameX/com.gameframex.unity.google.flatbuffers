@@ -1,3 +1,10 @@
+# [23.7.0](https://github.com/gameframex/com.gameframex.unity.google.flatbuffers/compare/23.6.0...23.7.0) (2025-12-24)
+
+
+### Features
+
+* **ci:** change ci ([4b8ab4d](https://github.com/gameframex/com.gameframex.unity.google.flatbuffers/commit/4b8ab4def93af54c2874f232346e1a7210744d29))
+
 # [23.6.0](https://github.com/gameframex/com.gameframex.unity.google.flatbuffers/compare/23.5.29...23.6.0) (2025-12-24)
 
 

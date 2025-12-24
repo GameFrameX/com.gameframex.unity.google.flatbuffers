@@ -2,7 +2,7 @@
   "name": "com.gameframex.unity.google.flatbuffers",
   "displayName": "Google Flat Buffers",
   "description": "高效的反序列化工具  FlatBuffers is a cross platform serialization library architected for maximum memory efficiency. It allows you to directly access serialized data without parsing/unpacking it first, while still having great forwards/backwards compatibility.",
-  "version": "23.6.0",
+  "version": "23.7.0",
   "dependencies": {},
   "devDependencies": {
     "semantic-release": "^24.2.0",
