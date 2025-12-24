@@ -1,3 +1,10 @@
+# [23.6.0](https://github.com/gameframex/com.gameframex.unity.google.flatbuffers/compare/23.5.29...23.6.0) (2025-12-24)
+
+
+### Features
+
+* **ci:** change ci ([cad1f02](https://github.com/gameframex/com.gameframex.unity.google.flatbuffers/commit/cad1f02834137c141944aee8bf70b3d18eb30689))
+
 # Changelog
 
 ## [23.5.29](https://github.com/GameFrameX/com.gameframex.unity.google.flatbuffers/tree/23.5.29) (2025-06-01)
